@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the associated RECaST-Surv manuscript using the metadata below."
+title: "RECaST-Surv reproducibility code"
+version: "0.0.2-rc1"
+license: MIT
+repository-code: "https://github.com/CISD-Stanford/RECaST-Surv"
+date-released: 2026-11-24
+authors:
+  - family-names: Bi
+    given-names: Dehua
+preferred-citation:
+  type: article
+  title: "RECaST-Surv: A Calibrated Borrowing Method for Survival Endpoints in Unequal Randomized Trials"
+  journal: Axioms
+  year: 2026
+  notes: "Manuscript version November 24, 2026. See the manuscript and appendices for statistical definitions and interpretation. No final DOI is asserted."
+  authors:
+    - name: Dehua Bi
+    - name: Arlina Shen
+    - name: Ruben P. A. van Eijk
+    - name: Lu Tian
+    - name: Jiapeng Xu
+    - name: Guillemette de la Borderie
+    - name: Nate Bennet
+    - name: Sarno Maria
+    - name: Ying Lu

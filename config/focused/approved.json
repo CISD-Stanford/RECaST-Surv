@@ -1,0 +1,18 @@
+{
+  "primary_B": 100,
+  "sensitivity_B": [
+    200,
+    500
+  ],
+  "bootstrap_B": 100,
+  "bootstrap_train": "n_control independent with replacement",
+  "bootstrap_evaluate": "n_treated independent with replacement",
+  "weights": [
+    "original",
+    "equal",
+    "normalized",
+    "cv5"
+  ],
+  "cv_folds": 5,
+  "scope": "Same N300 r2; weighting Delta 0 and -0.5; calibration sensitivity Delta 0; 100 selected per effect for CV5 and 100 null for calibration; no new campaign run"
+}

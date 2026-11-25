@@ -1,0 +1,16 @@
+{
+  "R": "R version 4.4.1 (2024-06-14)",
+  "platform": "aarch64-apple-darwin20",
+  "package_versions": {
+    "survival": "3.6.4",
+    "matrixStats": "1.5.0",
+    "mvtnorm": "1.2.5",
+    "statmod": "1.5.1",
+    "jsonlite": "1.8.8"
+  },
+  "rng_kind": [
+    "L'Ecuyer-CMRG",
+    "Inversion",
+    "Rejection"
+  ]
+}

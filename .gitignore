@@ -1,0 +1,35 @@
+# Generated study output and caches
+results/
+outputs/
+data/
+*.rds
+*.RData
+*.rda
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+renv/staging/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.partial
+*.zip
+*.tar.gz
+.DS_Store
+# Unapproved inputs and optional externally supplied model
+data_rwe.csv
+external/*
+!external/RMAP_MODEL_REQUIRED.json
+!external/README.md
+# Local credentials and environment
+.env
+.env.*
+*.pem
+*.key
+.aws/
+.ssh/
+.netrc
+credentials*
+tokens*

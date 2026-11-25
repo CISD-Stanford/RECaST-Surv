@@ -1,0 +1,6 @@
+f<-gsub('~+~',' ',sub('^--file=','',grep('^--file=',commandArgs(FALSE),value=TRUE)),fixed=TRUE)
+source(file.path(dirname(f),'common.R'));root<-release_script_root();a<-release_args()
+if(is.null(a$input)||is.null(a$out))stop('Supply --input run_directory --out new_summary_directory')
+source(file.path(root,'R/load.R'));e<-release_load(root)
+tab<-e$release_summarize(a$input,a$out)
+cat('Saved',nrow(tab),'method/scenario summaries to',a$out,'\n')

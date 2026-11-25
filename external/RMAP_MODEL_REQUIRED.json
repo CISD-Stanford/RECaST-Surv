@@ -1,0 +1,15 @@
+{
+  "filename": "rMAP_Surv_Pois_Fit_ctl.txt",
+  "sha256": "1199ca4e6b56b9b007758a0b95a42ecfb51d21c9f3322b7ef01b2942d32eb6a1",
+  "redistribution": "Not bundled: no affirmative redistribution grant was located. Obtain an authorized exact copy from the authors. JAGS/rjags alone do not supply this study model.",
+  "settings": {
+    "chains": 1,
+    "adaptation": 400,
+    "burnin": 400,
+    "sampling": 2000,
+    "thin": 5,
+    "retained": 400,
+    "prior_std": 2,
+    "mixture_weight": 0.5
+  }
+}

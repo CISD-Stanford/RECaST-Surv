@@ -1,0 +1,1514 @@
+[
+  {
+    "family": "Diff",
+    "trial_N": 200,
+    "r": 1,
+    "delta": -0.5,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N200_r1_Dm05",
+    "accepted_scenario_id": "MAIN36EXT_Diff_N200_r1_Dm05"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 200,
+    "r": 1,
+    "delta": -0.25,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N200_r1_Dm025",
+    "accepted_scenario_id": "MAIN36EXT_Diff_N200_r1_Dm025"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 200,
+    "r": 1,
+    "delta": 0.0,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N200_r1_D0",
+    "accepted_scenario_id": "MAIN36EXT_Diff_N200_r1_D0"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 200,
+    "r": 2,
+    "delta": -0.5,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N200_r2_Dm05",
+    "accepted_scenario_id": "M3_Diff_N200_r2_Dm05"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 200,
+    "r": 2,
+    "delta": -0.25,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N200_r2_Dm025",
+    "accepted_scenario_id": "MAIN36EXT_Diff_N200_r2_Dm025"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 200,
+    "r": 2,
+    "delta": 0,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N200_r2_D0",
+    "accepted_scenario_id": "M3_Diff_N200_r2_D0"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 200,
+    "r": 3,
+    "delta": -0.5,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N200_r3_Dm05",
+    "accepted_scenario_id": "M4_Diff_N200_r3_Dm05"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 200,
+    "r": 3,
+    "delta": -0.25,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N200_r3_Dm025",
+    "accepted_scenario_id": "MAIN36EXT_Diff_N200_r3_Dm025"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 200,
+    "r": 3,
+    "delta": 0,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N200_r3_D0",
+    "accepted_scenario_id": "M4_Diff_N200_r3_D0"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 300,
+    "r": 1,
+    "delta": -0.5,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N300_r1_Dm05",
+    "accepted_scenario_id": "M2_Diff_N300_r1_Dm05"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 300,
+    "r": 1,
+    "delta": -0.25,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N300_r1_Dm025",
+    "accepted_scenario_id": "MAIN36EXT_Diff_N300_r1_Dm025"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 300,
+    "r": 1,
+    "delta": 0,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N300_r1_D0",
+    "accepted_scenario_id": "M2_Diff_N300_r1_D0"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 300,
+    "r": 2,
+    "delta": -0.5,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N300_r2_Dm05",
+    "accepted_scenario_id": "M1_Diff_N300_r2_Dm05"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 300,
+    "r": 2,
+    "delta": -0.25,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N300_r2_Dm025",
+    "accepted_scenario_id": "M1_Diff_N300_r2_Dm025"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 300,
+    "r": 2,
+    "delta": 0,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N300_r2_D0",
+    "accepted_scenario_id": "M1_Diff_N300_r2_D0"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 300,
+    "r": 3,
+    "delta": -0.5,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N300_r3_Dm05",
+    "accepted_scenario_id": "MAIN36EXT_Diff_N300_r3_Dm05"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 300,
+    "r": 3,
+    "delta": -0.25,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N300_r3_Dm025",
+    "accepted_scenario_id": "MAIN36EXT_Diff_N300_r3_Dm025"
+  },
+  {
+    "family": "Diff",
+    "trial_N": 300,
+    "r": 3,
+    "delta": 0.0,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [
+      0.5,
+      0.55,
+      0.51
+    ],
+    "scenario_id": "Diff_N300_r3_D0",
+    "accepted_scenario_id": "MAIN36EXT_Diff_N300_r3_D0"
+  },
+  {
+    "family": "Same",
+    "trial_N": 200,
+    "r": 1,
+    "delta": -0.5,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N200_r1_Dm05",
+    "accepted_scenario_id": "MAIN36EXT_Same_N200_r1_Dm05"
+  },
+  {
+    "family": "Same",
+    "trial_N": 200,
+    "r": 1,
+    "delta": -0.25,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N200_r1_Dm025",
+    "accepted_scenario_id": "MAIN36EXT_Same_N200_r1_Dm025"
+  },
+  {
+    "family": "Same",
+    "trial_N": 200,
+    "r": 1,
+    "delta": 0.0,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N200_r1_D0",
+    "accepted_scenario_id": "MAIN36EXT_Same_N200_r1_D0"
+  },
+  {
+    "family": "Same",
+    "trial_N": 200,
+    "r": 2,
+    "delta": -0.5,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N200_r2_Dm05",
+    "accepted_scenario_id": "M3_Same_N200_r2_Dm05"
+  },
+  {
+    "family": "Same",
+    "trial_N": 200,
+    "r": 2,
+    "delta": -0.25,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N200_r2_Dm025",
+    "accepted_scenario_id": "MAIN36EXT_Same_N200_r2_Dm025"
+  },
+  {
+    "family": "Same",
+    "trial_N": 200,
+    "r": 2,
+    "delta": 0,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N200_r2_D0",
+    "accepted_scenario_id": "M3_Same_N200_r2_D0"
+  },
+  {
+    "family": "Same",
+    "trial_N": 200,
+    "r": 3,
+    "delta": -0.5,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N200_r3_Dm05",
+    "accepted_scenario_id": "M4_Same_N200_r3_Dm05"
+  },
+  {
+    "family": "Same",
+    "trial_N": 200,
+    "r": 3,
+    "delta": -0.25,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N200_r3_Dm025",
+    "accepted_scenario_id": "MAIN36EXT_Same_N200_r3_Dm025"
+  },
+  {
+    "family": "Same",
+    "trial_N": 200,
+    "r": 3,
+    "delta": 0,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N200_r3_D0",
+    "accepted_scenario_id": "M4_Same_N200_r3_D0"
+  },
+  {
+    "family": "Same",
+    "trial_N": 300,
+    "r": 1,
+    "delta": -0.5,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N300_r1_Dm05",
+    "accepted_scenario_id": "M2_Same_N300_r1_Dm05"
+  },
+  {
+    "family": "Same",
+    "trial_N": 300,
+    "r": 1,
+    "delta": -0.25,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N300_r1_Dm025",
+    "accepted_scenario_id": "MAIN36EXT_Same_N300_r1_Dm025"
+  },
+  {
+    "family": "Same",
+    "trial_N": 300,
+    "r": 1,
+    "delta": 0,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N300_r1_D0",
+    "accepted_scenario_id": "M2_Same_N300_r1_D0"
+  },
+  {
+    "family": "Same",
+    "trial_N": 300,
+    "r": 2,
+    "delta": -0.5,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N300_r2_Dm05",
+    "accepted_scenario_id": "M1_Same_N300_r2_Dm05"
+  },
+  {
+    "family": "Same",
+    "trial_N": 300,
+    "r": 2,
+    "delta": -0.25,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N300_r2_Dm025",
+    "accepted_scenario_id": "M1_Same_N300_r2_Dm025"
+  },
+  {
+    "family": "Same",
+    "trial_N": 300,
+    "r": 2,
+    "delta": 0,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N300_r2_D0",
+    "accepted_scenario_id": "M1_Same_N300_r2_D0"
+  },
+  {
+    "family": "Same",
+    "trial_N": 300,
+    "r": 3,
+    "delta": -0.5,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N300_r3_Dm05",
+    "accepted_scenario_id": "MAIN36EXT_Same_N300_r3_Dm05"
+  },
+  {
+    "family": "Same",
+    "trial_N": 300,
+    "r": 3,
+    "delta": -0.25,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N300_r3_Dm025",
+    "accepted_scenario_id": "MAIN36EXT_Same_N300_r3_Dm025"
+  },
+  {
+    "family": "Same",
+    "trial_N": 300,
+    "r": 3,
+    "delta": 0.0,
+    "trial_beta": [
+      0.2,
+      0.3,
+      0.4
+    ],
+    "external_sizes": [
+      100,
+      250,
+      400
+    ],
+    "external_beta": [
+      [
+        0.2,
+        0.3,
+        0.4
+      ],
+      [
+        0.15,
+        0.35,
+        0.45
+      ],
+      [
+        0.22,
+        0.28,
+        0.38
+      ]
+    ],
+    "lambda": 0.01,
+    "nu": 1.2,
+    "total_time": 60,
+    "dropout": 0.15,
+    "omitted_external_beta": [],
+    "scenario_id": "Same_N300_r3_D0",
+    "accepted_scenario_id": "MAIN36EXT_Same_N300_r3_D0"
+  }
+]

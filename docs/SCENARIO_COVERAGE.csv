@@ -1,0 +1,17 @@
+family_or_scenario,brief_description,configuration_or_entry_point,manuscript_reference
+Main: Same/Diff,"36 combinations of source condition, N=200/300, r=1/2/3, and Delta=0/-0.25/-0.5.",config/main/scenarios.json; scripts/run_simulation.R,Sections 4.1–4.3; Appendices C–D
+H1,"External baseline-hazard multipliers 0.5, 1, and 2.",config/H1-H5/H1.R; scripts/run_simulation.R,"Section 4.4; Appendix E.1–E.2, Tables A12–A14"
+H2,Common piecewise-exponential baseline; hazard doubles after month 30.,config/H1-H5/H2.R; scripts/run_simulation.R,"Section 4.4; Appendix E.1–E.2, Tables A12–A14"
+H3,"Delayed treatment effect, absent through month 20 and Delta=-0.5 thereafter.",config/H1-H5/H3.R; scripts/run_simulation.R,"Section 4.4; Appendix E.1–E.2, Tables A12–A14"
+H4,Prognostic regression coefficients reduced by half.,config/H1-H5/H4.R; scripts/run_simulation.R,"Section 4.4; Appendix E.1–E.2, Tables A12–A14"
+H5,Heavier potential target dropout: 0.40 by month 60.,config/H1-H5/H5.R; scripts/run_simulation.R,"Section 4.4; Appendix E.1–E.2, Tables A12–A14"
+Set A,External sample sizes and coefficient magnitudes; five cases at Delta=0 and -0.5.,config/A-D/cases.csv; scripts/run_simulation.R,"Section 4.4; Appendix E.1, Table A15"
+Set B,Correlation between X1 and X2; eight cases at Delta=0 and -0.5.,config/A-D/cases.csv; scripts/run_simulation.R,"Section 4.4; Appendix E.1, Table A15"
+Set C,Estimated source-coefficient bias or noise; eleven cases at Delta=0 and -0.5.,config/A-D/cases.csv; scripts/run_simulation.R,"Section 4.4; Appendix E.1, Table A16"
+Set D,Covariate shift through rejection-sampling support restrictions; five cases at Delta=0 and -0.5.,config/A-D/cases.csv; scripts/run_simulation.R,"Section 4.4; Appendix E.1, Table A16"
+Predictive mean,Supplementary survival summary alongside the primary pointwise median.,scripts/run_simulation.R,"Sections 3.3 and 4.2; Appendix C.2, Table A3"
+Weighting,"Equal, normalized, and five-fold cross-validated source weights.",config/focused/approved.json; scripts/run_sensitivity.R,"Sections 3.4 and 4.2; Appendix C.4, Table A6"
+Calibration,"Full/split score summaries, B=100/200/500, and full-size bootstrap comparison.",config/focused/approved.json; scripts/run_sensitivity.R; scripts/report_focused.R,"Section 4.2; Appendix C.3, Tables A4–A5"
+Source-coefficient summaries,Descriptive coefficient-error and association summaries.,scripts/report_focused.R,Section 4.2; Appendix C.4
+R-MAP/C-RMAP,Borrowing comparator entries; see optional-input guide.,scripts/run_rmap.R; scripts/calibrate_rmap.R; external/README.md,Section 4.1; Appendix E.2
+ALS hybrid diagnostic,Synthetic-data hybrid Delta=0 diagnostic and covariate-balance output using the documented modern profile.,modules/ALS/README.md; scripts/run_als.R,Section 5.1; Appendix F.1

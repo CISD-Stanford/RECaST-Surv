@@ -1,0 +1,15 @@
+cell_id,scenario,variant,Delta_post_or_constant,source_baseline_m,planned_cell_denominator
+H1_m0.5_D0,H1,m0.5_Delta0,0,0.5,1000
+H1_m0.5_Dm05,H1,m0.5_Delta-0.5,-0.5,0.5,1000
+H1_m2_D0,H1,m2_Delta0,0,2,1000
+H1_m2_Dm05,H1,m2_Delta-0.5,-0.5,2,1000
+H2_D0,H2,Delta0,0,,1000
+H2_Dm05,H2,Delta-0.5,-0.5,,1000
+H3_delayed,H3,delayed_alternative,-0.5,,1000
+H4_D0,H4,Delta0,0,,1000
+H4_Dm05,H4,Delta-0.5,-0.5,,1000
+H5_D0,H5,Delta0,0,,1000
+H5_Dm05,H5,Delta-0.5,-0.5,,1000
+H1_m1_D0,H1,m1_Delta0,0,1,1000
+H1_m1_Dm05,H1,m1_Delta-0.5,-0.5,1,1000
+H3_null,H3,all_zero_null,0,,1000

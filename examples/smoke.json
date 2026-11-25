@@ -1,0 +1,13 @@
+{
+  "purpose": "NONPRODUCTION execution demonstration; no paper inference or valid B100 interval",
+  "scenario": "Same_N200_r1_D0",
+  "computation": {
+    "n_calib": 2,
+    "calib_steps": 80,
+    "calib_burnin": 20,
+    "calib_pred_draws": 8,
+    "final_steps": 120,
+    "final_burnin": 30,
+    "n_thin_draws": 20
+  }
+}

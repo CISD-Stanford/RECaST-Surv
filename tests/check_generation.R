@@ -1,0 +1,12 @@
+f<-gsub('~+~',' ',sub('^--file=','',grep('^--file=',commandArgs(FALSE),value=TRUE)),fixed=TRUE)
+root<-normalizePath(file.path(dirname(f),'..'));source(file.path(root,'R/load.R'));e<-release_load(root)
+h<-e$release_context(e$release_scenario('H3_delayed'))$config$h_dgm
+X<-matrix(c(.2,.3,.4),nrow=1,dimnames=list(NULL,c('X1','X2','X3')))
+stopifnot(identical(e$H_treatment_log_hr(h,c(10,20,21,60)),c(0,0,-.5,-.5)))
+times<-c(10,20,21,60);q<-e$H_cumulative_hazard(h,'target',times,X,1)
+stopifnot(max(abs(e$H_inverse_hazard(h,'target',q,X,1)-times))<1e-12)
+RNGkind("L'Ecuyer-CMRG",'Inversion','Rejection');set.seed(902105)
+s<-e$release_scenario('D5_Dm05');ctx<-e$release_context(s);x<-e$release_generate(s,ctx)
+stopifnot(all(x$trial$X_mat[,1]>=0),all(vapply(x$external,function(z)all(z$X_mat[,1]<=0),logical(1))))
+stopifnot(nrow(x$trial$data)==300L,identical(vapply(x$external,function(z)nrow(z$data),integer(1)),c(100L,250L,400L)))
+cat('PASS: H3 fixed delayed-effect inversion; one D5 generation-only support check. No fitting.\n')

@@ -1,0 +1,9 @@
+{
+  "main": {"memberships": 36, "replications_per_membership": 1000, "B": 100},
+  "H1-H5": {"memberships": 14, "additional_distinct_scenarios": 11, "replications_per_membership": 1000, "B": 100},
+  "A-D": {"designs": 29, "effect_levels": [0, -0.5], "memberships": 58, "replications_per_membership": 1000, "B": 100, "recast_summary": "median"},
+  "RMAP_A-D": {"canonical_banks": 38, "case_effect_memberships": 58, "replications_per_bank": 1000},
+  "C-RMAP": {"null_selection_n": 1000, "ordered_cutoff_rank": 950, "operator": ">="},
+  "focused": {"deterministic_weighting_trials_per_effect": 1000, "CV5_trials_per_effect": 100, "calibration_sensitivity_null_trials": 100, "B_sensitivity": [100, 200, 500], "bootstrap_B": 100},
+  "execution": "No default campaign starts on load. CLI requires an explicit replication count, seed, worker count and new output directory. These are study defaults, not validation authorization."
+}

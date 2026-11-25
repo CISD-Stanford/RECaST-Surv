@@ -1,0 +1,109 @@
+scenario_id,method,reference,reference_id
+Same_N200_r1_D0,median,1,oracle_marginal_OE_benchmark
+Same_N200_r1_D0,mean,1,oracle_marginal_OE_benchmark
+Same_N200_r1_Dm025,median,0.80155564750962105,oracle_marginal_OE_benchmark
+Same_N200_r1_Dm025,mean,0.80155564750962105,oracle_marginal_OE_benchmark
+Same_N200_r1_Dm05,median,0.64080597031188002,oracle_marginal_OE_benchmark
+Same_N200_r1_Dm05,mean,0.64080597031188002,oracle_marginal_OE_benchmark
+Same_N200_r2_D0,median,1,oracle_marginal_OE_benchmark
+Same_N200_r2_D0,mean,1,oracle_marginal_OE_benchmark
+Same_N200_r2_Dm025,median,0.80155564750962105,oracle_marginal_OE_benchmark
+Same_N200_r2_Dm025,mean,0.80155564750962105,oracle_marginal_OE_benchmark
+Same_N200_r2_Dm05,median,0.64080597031188002,oracle_marginal_OE_benchmark
+Same_N200_r2_Dm05,mean,0.64080597031188002,oracle_marginal_OE_benchmark
+Same_N200_r3_D0,median,1,oracle_marginal_OE_benchmark
+Same_N200_r3_D0,mean,1,oracle_marginal_OE_benchmark
+Same_N200_r3_Dm025,median,0.80155564750962105,oracle_marginal_OE_benchmark
+Same_N200_r3_Dm025,mean,0.80155564750962105,oracle_marginal_OE_benchmark
+Same_N200_r3_Dm05,median,0.64080597031188002,oracle_marginal_OE_benchmark
+Same_N200_r3_Dm05,mean,0.64080597031188002,oracle_marginal_OE_benchmark
+Same_N300_r1_D0,median,1,oracle_marginal_OE_benchmark
+Same_N300_r1_D0,mean,1,oracle_marginal_OE_benchmark
+Same_N300_r1_Dm025,median,0.80155564750962105,oracle_marginal_OE_benchmark
+Same_N300_r1_Dm025,mean,0.80155564750962105,oracle_marginal_OE_benchmark
+Same_N300_r1_Dm05,median,0.64080597031188002,oracle_marginal_OE_benchmark
+Same_N300_r1_Dm05,mean,0.64080597031188002,oracle_marginal_OE_benchmark
+Same_N300_r2_D0,median,1,oracle_marginal_OE_benchmark
+Same_N300_r2_D0,mean,1,oracle_marginal_OE_benchmark
+Same_N300_r2_Dm025,median,0.80155564750962105,oracle_marginal_OE_benchmark
+Same_N300_r2_Dm025,mean,0.80155564750962105,oracle_marginal_OE_benchmark
+Same_N300_r2_Dm05,median,0.64080597031188002,oracle_marginal_OE_benchmark
+Same_N300_r2_Dm05,mean,0.64080597031188002,oracle_marginal_OE_benchmark
+Same_N300_r3_D0,median,1,oracle_marginal_OE_benchmark
+Same_N300_r3_D0,mean,1,oracle_marginal_OE_benchmark
+Same_N300_r3_Dm025,median,0.80155564750962105,oracle_marginal_OE_benchmark
+Same_N300_r3_Dm025,mean,0.80155564750962105,oracle_marginal_OE_benchmark
+Same_N300_r3_Dm05,median,0.64080597031188002,oracle_marginal_OE_benchmark
+Same_N300_r3_Dm05,mean,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N200_r1_D0,median,1,oracle_marginal_OE_benchmark
+Diff_N200_r1_D0,mean,1,oracle_marginal_OE_benchmark
+Diff_N200_r1_Dm025,median,0.80155564750962105,oracle_marginal_OE_benchmark
+Diff_N200_r1_Dm025,mean,0.80155564750962105,oracle_marginal_OE_benchmark
+Diff_N200_r1_Dm05,median,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N200_r1_Dm05,mean,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N200_r2_D0,median,1,oracle_marginal_OE_benchmark
+Diff_N200_r2_D0,mean,1,oracle_marginal_OE_benchmark
+Diff_N200_r2_Dm025,median,0.80155564750962105,oracle_marginal_OE_benchmark
+Diff_N200_r2_Dm025,mean,0.80155564750962105,oracle_marginal_OE_benchmark
+Diff_N200_r2_Dm05,median,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N200_r2_Dm05,mean,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N200_r3_D0,median,1,oracle_marginal_OE_benchmark
+Diff_N200_r3_D0,mean,1,oracle_marginal_OE_benchmark
+Diff_N200_r3_Dm025,median,0.80155564750962105,oracle_marginal_OE_benchmark
+Diff_N200_r3_Dm025,mean,0.80155564750962105,oracle_marginal_OE_benchmark
+Diff_N200_r3_Dm05,median,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N200_r3_Dm05,mean,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N300_r1_D0,median,1,oracle_marginal_OE_benchmark
+Diff_N300_r1_D0,mean,1,oracle_marginal_OE_benchmark
+Diff_N300_r1_Dm025,median,0.80155564750962105,oracle_marginal_OE_benchmark
+Diff_N300_r1_Dm025,mean,0.80155564750962105,oracle_marginal_OE_benchmark
+Diff_N300_r1_Dm05,median,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N300_r1_Dm05,mean,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N300_r2_D0,median,1,oracle_marginal_OE_benchmark
+Diff_N300_r2_D0,mean,1,oracle_marginal_OE_benchmark
+Diff_N300_r2_Dm025,median,0.80155564750962105,oracle_marginal_OE_benchmark
+Diff_N300_r2_Dm025,mean,0.80155564750962105,oracle_marginal_OE_benchmark
+Diff_N300_r2_Dm05,median,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N300_r2_Dm05,mean,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N300_r3_D0,median,1,oracle_marginal_OE_benchmark
+Diff_N300_r3_D0,mean,1,oracle_marginal_OE_benchmark
+Diff_N300_r3_Dm025,median,0.80155564750962105,oracle_marginal_OE_benchmark
+Diff_N300_r3_Dm025,mean,0.80155564750962105,oracle_marginal_OE_benchmark
+Diff_N300_r3_Dm05,median,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N300_r3_Dm05,mean,0.64080597031188002,oracle_marginal_OE_benchmark
+Diff_N300_r2_D0,Cox-A,1.0,conditional correctly specified PH HR exp(Delta)
+Diff_N300_r2_D0,Cox-U,1.0,population treatment-only Cox partial-likelihood projection
+Diff_N300_r2_Dm025,Cox-A,0.7788007830714049,conditional correctly specified PH HR exp(Delta)
+Diff_N300_r2_Dm025,Cox-U,0.8009436222969776,population treatment-only Cox partial-likelihood projection
+Diff_N300_r2_Dm05,Cox-A,0.6065306597126334,conditional correctly specified PH HR exp(Delta)
+Diff_N300_r2_Dm05,Cox-U,0.639204860148468,population treatment-only Cox partial-likelihood projection
+Same_N300_r2_D0,Cox-A,1.0,conditional correctly specified PH HR exp(Delta)
+Same_N300_r2_D0,Cox-U,1.0,population treatment-only Cox partial-likelihood projection
+Same_N300_r2_Dm025,Cox-A,0.7788007830714049,conditional correctly specified PH HR exp(Delta)
+Same_N300_r2_Dm025,Cox-U,0.8009436222969776,population treatment-only Cox partial-likelihood projection
+Same_N300_r2_Dm05,Cox-A,0.6065306597126334,conditional correctly specified PH HR exp(Delta)
+Same_N300_r2_Dm05,Cox-U,0.639204860148468,population treatment-only Cox partial-likelihood projection
+Diff_N300_r1_D0,Cox-A,1.0,conditional correctly specified PH HR exp(Delta)
+Diff_N300_r1_D0,Cox-U,1.0,population treatment-only Cox partial-likelihood projection
+Diff_N300_r1_Dm05,Cox-A,0.6065306597126334,conditional correctly specified PH HR exp(Delta)
+Diff_N300_r1_Dm05,Cox-U,0.6396472524530391,population treatment-only Cox partial-likelihood projection
+Same_N300_r1_D0,Cox-A,1.0,conditional correctly specified PH HR exp(Delta)
+Same_N300_r1_D0,Cox-U,1.0,population treatment-only Cox partial-likelihood projection
+Same_N300_r1_Dm05,Cox-A,0.6065306597126334,conditional correctly specified PH HR exp(Delta)
+Same_N300_r1_Dm05,Cox-U,0.6396472524530391,population treatment-only Cox partial-likelihood projection
+Diff_N200_r2_D0,Cox-A,1.0,conditional correctly specified PH HR exp(Delta)
+Diff_N200_r2_D0,Cox-U,1.0,population treatment-only Cox partial-likelihood projection
+Diff_N200_r2_Dm05,Cox-A,0.6065306597126334,conditional correctly specified PH HR exp(Delta)
+Diff_N200_r2_Dm05,Cox-U,0.639204860148468,population treatment-only Cox partial-likelihood projection
+Same_N200_r2_D0,Cox-A,1.0,conditional correctly specified PH HR exp(Delta)
+Same_N200_r2_D0,Cox-U,1.0,population treatment-only Cox partial-likelihood projection
+Same_N200_r2_Dm05,Cox-A,0.6065306597126334,conditional correctly specified PH HR exp(Delta)
+Same_N200_r2_Dm05,Cox-U,0.639204860148468,population treatment-only Cox partial-likelihood projection
+Diff_N200_r3_D0,Cox-A,1.0,conditional correctly specified PH HR exp(Delta)
+Diff_N200_r3_D0,Cox-U,1.0,population treatment-only Cox partial-likelihood projection
+Diff_N200_r3_Dm05,Cox-A,0.6065306597126334,conditional correctly specified PH HR exp(Delta)
+Diff_N200_r3_Dm05,Cox-U,0.6389705987096005,population treatment-only Cox partial-likelihood projection
+Same_N200_r3_D0,Cox-A,1.0,conditional correctly specified PH HR exp(Delta)
+Same_N200_r3_D0,Cox-U,1.0,population treatment-only Cox partial-likelihood projection
+Same_N200_r3_Dm05,Cox-A,0.6065306597126334,conditional correctly specified PH HR exp(Delta)
+Same_N200_r3_Dm05,Cox-U,0.6389705987096005,population treatment-only Cox partial-likelihood projection

@@ -1,0 +1,10 @@
+f<-gsub('~+~',' ',sub('^--file=','',grep('^--file=',commandArgs(FALSE),value=TRUE)),fixed=TRUE)
+root<-normalizePath(file.path(dirname(f),'..'));args<-commandArgs(TRUE)
+input<-if(length(args))args[1]else file.path(root,'results/example')
+leaf<-file.path(input,'Same_N200_r1_D0/rep_0001')
+s<-readRDS(file.path(leaf,'status.rds'));x<-readRDS(file.path(leaf,'analysis.rds'))
+stopifnot(s$status=='COMPLETED',isTRUE(s$smoke_only),length(s$warnings)==0L,length(x$splits)==2L)
+tab<-read.csv(file.path(leaf,'trial_results.csv'))
+stopifnot(nrow(tab)==6L,all(is.finite(tab$estimate)),all(!is.na(tab$reject)),
+  all(tab$CI_status[grepl('^RECaST',tab$method)]=='unavailable'),all(tab$smoke_only))
+cat('PASS: one reduced smoke identity, six finite method rows; B100 intervals correctly unavailable.\n')
